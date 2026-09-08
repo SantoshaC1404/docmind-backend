@@ -8,6 +8,10 @@ target/
 src/main/resources/application.yml
 src/main/resources/application-dev.yml
 
+build.log
+build_direct.log
+build_relog.log
+
 ### STS ###
 .apt_generated
 .classpath
